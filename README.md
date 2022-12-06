@@ -1,6 +1,6 @@
-## Calculator : le jeu du pendu
+## Calculator
   
-Lien vers le jeu : https://bouimust.github.io/calculator/
+Lien vers la calculatrice : https://bouimust.github.io/calculator/
   
 Technologies utilisés :
 ``HTML / CSS / Bootstrap / Javascript``
