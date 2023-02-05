@@ -8,9 +8,9 @@
   
 **Axe d'amélioration** :  
 ~ Ajouter un bouton '-/+' pour saisir un nombre positif ou négatif.  
-~ Limiter le nombre de chiffre à l'écran. 
-~ Pouvoir saisir les chiffres depuis le clavier.
-~ Responsive.
+~ Limiter le nombre de chiffre à l'écran.  
+~ Pouvoir saisir les chiffres depuis le clavier.  
+~ Responsive.  
 
 **Lien vers la calculatrice** : https://bouimust.github.io/calculator/ (version ordinateur, non adapté pour smartphone)
 
