@@ -1,6 +1,6 @@
 ## Calculatrice
   
-**Lien vers l'app : https://bouimust.github.io/calculator/** (version ordinateur, non adapté pour smartphone)
+**Lien vers l'app : https://boudev-m.github.io/calculator/** (version ordinateur, non adapté pour smartphone)
 
 **Technologies utilisés** :
 ``HTML / CSS / Javascript / Bootstrap``
